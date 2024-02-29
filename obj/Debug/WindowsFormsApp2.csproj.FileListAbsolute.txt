@@ -1,0 +1,21 @@
+C:\Users\2020100147\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\2020100147\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\2020100147\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\2020100147\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\2020100147\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\2020100147\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\2020100147\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\2020100147\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\2020100147\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\2020100147\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\_Paulo Padilha_\_Facul_\1° Período\Fundamentos da Programação\Atividades 1°Bi\Ex1 - 09_05 OPERADORES\bin\Debug\WindowsFormsApp2.exe.config
+E:\_Paulo Padilha_\_Facul_\1° Período\Fundamentos da Programação\Atividades 1°Bi\Ex1 - 09_05 OPERADORES\bin\Debug\WindowsFormsApp2.exe
+E:\_Paulo Padilha_\_Facul_\1° Período\Fundamentos da Programação\Atividades 1°Bi\Ex1 - 09_05 OPERADORES\bin\Debug\WindowsFormsApp2.pdb
+E:\_Paulo Padilha_\_Facul_\1° Período\Fundamentos da Programação\Atividades 1°Bi\Ex1 - 09_05 OPERADORES\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\_Paulo Padilha_\_Facul_\1° Período\Fundamentos da Programação\Atividades 1°Bi\Ex1 - 09_05 OPERADORES\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+E:\_Paulo Padilha_\_Facul_\1° Período\Fundamentos da Programação\Atividades 1°Bi\Ex1 - 09_05 OPERADORES\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\_Paulo Padilha_\_Facul_\1° Período\Fundamentos da Programação\Atividades 1°Bi\Ex1 - 09_05 OPERADORES\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\_Paulo Padilha_\_Facul_\1° Período\Fundamentos da Programação\Atividades 1°Bi\Ex1 - 09_05 OPERADORES\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\_Paulo Padilha_\_Facul_\1° Período\Fundamentos da Programação\Atividades 1°Bi\Ex1 - 09_05 OPERADORES\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\_Paulo Padilha_\_Facul_\1° Período\Fundamentos da Programação\Atividades 1°Bi\Ex1 - 09_05 OPERADORES\obj\Debug\WindowsFormsApp2.exe
+E:\_Paulo Padilha_\_Facul_\1° Período\Fundamentos da Programação\Atividades 1°Bi\Ex1 - 09_05 OPERADORES\obj\Debug\WindowsFormsApp2.pdb
